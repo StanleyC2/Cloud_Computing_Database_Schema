@@ -1,2 +1,5 @@
 # Cloud_Computing_Database_Schema
-![Schema of database](assets/Schema.png)
+![DB_schema.jpeg](assets/DB_schema.jpeg)
+
+# Service Diagram
+![Service_Diagram.png](assets/Service_diagram.png)
